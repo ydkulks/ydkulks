@@ -4,26 +4,37 @@
 
 <!-- ![profile views](https://komarev.com/ghpvc/?username=ydkulks) -->
 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Developer</h3>
+
+<div align="center">
+
+![ydkulks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydkulks&show_icons=true&theme=dark)
+
+</div>
 
 - 🔭 I’m currently working on [Confidra](https://github.com/ydkulks/Confidra)
-- 🌱 I’m currently learning [Firebase](https://firebase.google.com)
+- 🌱 I’m currently learning [Firebase](https://firebase.google.com) and [Go](https://go.dev/)
 - 👯 I’m looking to collaborate on [Neovim](https://neovim.io/) plugins
 - 💬 Ask me about [React](https://react.dev), [Next.js](https://next.org), [Vercel](https://vercel.com)
 - 📫 How to reach me: [Email](mailto:ydkulks2@gmail.com)
 - ⚡ Fun fact: I do digital art and post on [Insta](https://instagram.com/yd_kulkarni/).
 
-## Languages and Tools
+<!-- ## Languages and Tools -->
 
-<center>
+<!-- <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydkulks&layout=compact&theme=dark)
 
-</center>
+</div> -->
 
-### Languages
+<details>
+<summary>
+📄 More
+</summary>
 
-<center>
+### 1. Languages
+
+<div align="center">
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -32,17 +43,21 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-</center>
+</div>
 
-### Editors
+### 2. Editors
 
-<center>
+<div align="center">
 
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-</center>
+</div>
+
+### 3. Tools
+
+<div align="center">
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -55,12 +70,7 @@
 ![](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</center>
+</div>
+</details>
 
-## Github stats
-
-<center>
-
-![ydkulks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydkulks&show_icons=true&theme=dark)
-
-</center>
+<!-- ## Github stats -->
