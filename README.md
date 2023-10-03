@@ -32,6 +32,10 @@
 📄 More
 </summary>
 
+### Hacktoberfest Badge
+
+[![An image of @ydkulks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ydkulks)](https://holopin.io/@ydkulks)
+
 ### 1. Languages
 
 <div align="center">
