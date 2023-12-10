@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on [Neovim](https://neovim.io/) plugins
 - 💬 Ask me about [React](https://react.dev), [Next.js](https://next.org), [Vercel](https://vercel.com)
 - 📫 How to reach me: [Email](mailto:ydkulks2@gmail.com)
-- ⚡ Fun fact: I do digital art and post on [Insta](https://instagram.com/yd_kulkarni/).
+- ⚡ Fun fact: I do digital art and 3D modelling.
 
 <!-- ## Languages and Tools -->
 
