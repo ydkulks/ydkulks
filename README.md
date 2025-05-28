@@ -4,7 +4,7 @@
 
 <!-- ![profile views](https://komarev.com/ghpvc/?username=ydkulks) -->
 
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <div align="center">
 
@@ -12,8 +12,8 @@
 
 </div>
 
-- 🔭 I’m currently working on [Confidra](https://github.com/ydkulks/Confidra)
-- 🌱 I’m currently learning [Firebase](https://firebase.google.com) and [Go](https://go.dev/)
+- 🔭 I’m currently working on [Confidra](https://github.com/ydkulks/TheDrip)
+- 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) and [Go](https://go.dev/)
 - 👯 I’m looking to collaborate on [Neovim](https://neovim.io/) plugins
 - 💬 Ask me about [React](https://react.dev), [Next.js](https://next.org), [Vercel](https://vercel.com)
 - 📫 How to reach me: [Email](mailto:ydkulks2@gmail.com)
@@ -73,6 +73,10 @@
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 </details>
